@@ -1,0 +1,1 @@
+just a simple ruby script to generate a quote bot for mastodon.
